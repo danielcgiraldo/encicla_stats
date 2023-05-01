@@ -14,12 +14,9 @@ def main():
         response = requests.request("GET", url)
 
         stations = response.json()
-
-        # Example of how to print the first station
-        print(stations[0])
-
         # TODO: Save the data in a csv for suramericana and volador
-
+        archivo = open("muu.txt", "a") #crear archivo
+        archivo.write(str(stations[9]) +","+ str(stations[98])+"\n")
         # Wait 1 minute before next request
         time.sleep(60)
 
