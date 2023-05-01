@@ -15,7 +15,7 @@ def main():
 
         stations = response.json()
         # TODO: Save the data in a csv for suramericana and volador
-        archivo = open("muu.txt", "a") #crear archivo
+        archivo = open("data.txt", "a") #crear archivo
         archivo.write(str(stations[9]) +","+ str(stations[98])+"\n")
         archivo.close
         # Wait 1 minute before next request
