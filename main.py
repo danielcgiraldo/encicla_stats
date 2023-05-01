@@ -16,7 +16,7 @@ def main():
         stations = response.json()
         # TODO: Save the data in a csv for suramericana and volador
         archivo = open("data.txt", "a") #crear archivo
-        archivo.write(str(stations[9]) +","+ str(stations[98])+"\n")
+        archivo.write(str(stations[9]) +","+ str(stations[98])+"\n") # 9 correspone a suramerica y 98 a volador
         archivo.close
         # Wait 1 minute before next request
         time.sleep(60)
