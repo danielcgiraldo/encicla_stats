@@ -35,15 +35,12 @@ def main():
         stations = response.json()
         # Fecha en al que se tomo el dato
         
-
-        # TODO: Save the data in a csv for suramericana and volador
-        archivo = open("datos.txt", "a") #crear archivo
-        
         for key, value in temp.items():
             if stations[key]["bikes"] != value:
+                archivo = open("datos.txt", "a") # Make and/or open file
                 archivo.write(str(stations[key]["name"])+","+ str(stations[key]["bikes"])+","+fecha[0]+","+fecha[1][0:8]+"\n")
                 temp[key] = stations[key]["bikes"]
-        archivo.close()
+                archivo.close()
         # Wait 10 seconds before next request
         i += 1
         print(f"Ciclo {i}")
