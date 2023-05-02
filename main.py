@@ -1,5 +1,6 @@
 import time
 import requests
+from datetime import datetime
 
 def main():
     """
@@ -14,10 +15,15 @@ def main():
         response = requests.request("GET", url)
 
         stations = response.json()
+        # Fecha en al que se tomo el dato
+        fecha = str(datetime.now()).split(" ")
+
         # TODO: Save the data in a csv for suramericana and volador
-        archivo = open("data.txt", "a") #crear archivo
-        archivo.write(str(stations[9]) +","+ str(stations[98])+"\n") # 9 correspone a suramerica y 98 a volador
-        archivo.close
+        archivo = open("datos.txt", "a") #crear archivo
+        numeros = [9,46,93,97,98] #suramericana,parque de los enamorados, colombia, carlos_E, campus nacional
+        for numero in numeros:
+          archivo.write(str(stations[numero]["name"])+","+ str(stations[numero]["bikes"])+","+fecha[0]+","+fecha[1][0:8]+"\n")
+        archivo.close()
         # Wait 1 minute before next request
         time.sleep(60)
 
