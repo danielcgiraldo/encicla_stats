@@ -1,50 +1,37 @@
 import time
 import requests
 from datetime import datetime
+import json
 
 def main():
     """
     Downloads the data from the API every minute and registers it in a csv.
     :return: None
     """
+    f = open("stations.json")
+    temp = json.load(f)
 
-    temp = {
-        9: -1, # Suramericana
-        46: -1, # Parque de los enamorados
-        93: -1, # Colombia
-        97: -1, # Carlos E. Restrepo
-        98: -1 # Campus Nacional Volador
-    }
+    fecha = str(datetime.now()).split(" ")
+    #if int(fecha[1][0:2]) < 7 or int(fecha[1][0:2]) >= 19:
+    #    return
+    url = "https://webapp.metropol.gov.co/wsencicla/api/Disponibilidad/GetDisponibilidadMapas"
+    response = requests.request("GET", url)
+    stations = response.json()
+    flag = False
+    for key, value in temp.items():
+        station = stations[int(key)]
+        if station["bikes"] != value:
+            
+            archivo = open("data.txt", "a") # Make and/or open file
+            archivo.write(str(station["name"])+","+ str(station["bikes"])+","+fecha[0]+","+fecha[1][0:8]+"\n")
+            temp[key] = station["bikes"]
+            archivo.close()
+            flag = True
+    f.close()
 
-    i = 0
-
-    while True:
-
-        fecha = str(datetime.now()).split(" ")
-
-        if int(fecha[1][0:2]) < 7 or int(fecha[1][0:2]) >= 19:
-            i += 1
-            print(f"Ciclo {i}")
-            time.sleep(10)
-            continue
-
-        url = "https://webapp.metropol.gov.co/wsencicla/api/Disponibilidad/GetDisponibilidadMapas"
-
-        response = requests.request("GET", url)
-
-        stations = response.json()
-        # Fecha en al que se tomo el dato
-        
-        for key, value in temp.items():
-            if stations[key]["bikes"] != value:
-                archivo = open("datos.txt", "a") # Make and/or open file
-                archivo.write(str(stations[key]["name"])+","+ str(stations[key]["bikes"])+","+fecha[0]+","+fecha[1][0:8]+"\n")
-                temp[key] = stations[key]["bikes"]
-                archivo.close()
-        # Wait 10 seconds before next request
-        i += 1
-        print(f"Ciclo {i}")
-        time.sleep(10)
+    if flag:
+        with open("stations.json", "w") as outfile:
+            json.dump(temp, outfile)
 
 
 if __name__ == '__main__':
