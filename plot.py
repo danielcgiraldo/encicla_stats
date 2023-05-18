@@ -6,7 +6,7 @@ import matplotlib.dates as mdates
 
 HORARIO = (datetime.strptime("5:30:00", "%H:%M:%S"), datetime.strptime("22:00:00", "%H:%M:%S"))
 FECHA = "2023-05-17"
-ESTACION = "Suramericana" # Estaciones: ['Suramericana', 'Colombia', 'Carlos E. Restrepo', 'Campus Nacional']
+ESTACION = "Campus Nacional" # Estaciones: ['Suramericana', 'Colombia', 'Carlos E. Restrepo', 'Campus Nacional']
 
 # Read data from file
 data = defaultdict(lambda: defaultdict(dict))
@@ -31,5 +31,4 @@ ax.set(xlim=HORARIO, xticks=x, ylim=(0, max(y)), yticks=np.arange(0, max(y) + 1,
 ax.xaxis.set_major_formatter(mdates.DateFormatter("%H:%M:%S"))
 
 # Save and show the plot
-plt.savefig('plot.png', bbox_inches='tight', dpi=150)
-plt.show()
+plt.savefig(f'/plots/{ESTACION}-{FECHA}.png', bbox_inches='tight', dpi=150)
