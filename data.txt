@@ -10692,3 +10692,665 @@ Carlos E. Restrepo,3,2023-05-17,21:24:52
 Carlos E. Restrepo,2,2023-05-17,21:25:41
 Carlos E. Restrepo,1,2023-05-17,21:28:11
 Carlos E. Restrepo,0,2023-05-17,21:28:21
+Suramericana,65,2023-05-17,21:39:41
+Colombia,3,2023-05-17,21:45:01
+Suramericana,66,2023-05-17,21:52:21
+Suramericana,76,2023-05-17,21:59:41
+Suramericana,84,2023-05-17,22:09:22
+Colombia,2,2023-05-17,22:09:22
+Campus Nacional,0,2023-05-17,22:09:22
+Suramericana,85,2023-05-17,22:10:21
+Suramericana,86,2023-05-17,22:14:11
+Suramericana,87,2023-05-17,22:19:41
+Suramericana,86,2023-05-17,22:42:41
+Suramericana,85,2023-05-18,05:01:41
+Suramericana,84,2023-05-18,05:08:11
+Suramericana,83,2023-05-18,05:10:02
+Suramericana,82,2023-05-18,05:11:01
+Suramericana,81,2023-05-18,05:11:21
+Suramericana,80,2023-05-18,05:11:41
+Suramericana,79,2023-05-18,05:12:01
+Suramericana,78,2023-05-18,05:12:31
+Suramericana,77,2023-05-18,05:13:01
+Suramericana,76,2023-05-18,05:13:21
+Suramericana,75,2023-05-18,05:14:01
+Suramericana,74,2023-05-18,05:26:51
+Campus Nacional,1,2023-05-18,05:26:51
+Suramericana,73,2023-05-18,05:30:21
+Suramericana,72,2023-05-18,05:30:41
+Suramericana,70,2023-05-18,05:31:11
+Campus Nacional,2,2023-05-18,05:35:01
+Colombia,3,2023-05-18,05:35:51
+Colombia,2,2023-05-18,05:36:11
+Suramericana,69,2023-05-18,05:36:21
+Colombia,3,2023-05-18,05:36:31
+Suramericana,68,2023-05-18,05:36:41
+Colombia,2,2023-05-18,05:36:51
+Campus Nacional,3,2023-05-18,05:37:11
+Suramericana,67,2023-05-18,05:37:41
+Suramericana,66,2023-05-18,05:38:41
+Suramericana,67,2023-05-18,05:39:01
+Colombia,3,2023-05-18,05:39:11
+Colombia,2,2023-05-18,05:39:21
+Suramericana,66,2023-05-18,05:40:52
+Suramericana,65,2023-05-18,05:42:11
+Colombia,3,2023-05-18,05:42:11
+Suramericana,64,2023-05-18,05:42:41
+Suramericana,63,2023-05-18,05:43:11
+Suramericana,64,2023-05-18,05:43:31
+Suramericana,63,2023-05-18,05:44:11
+Suramericana,62,2023-05-18,05:44:31
+Suramericana,61,2023-05-18,05:44:51
+Carlos E. Restrepo,1,2023-05-18,05:45:01
+Campus Nacional,4,2023-05-18,05:45:31
+Suramericana,60,2023-05-18,05:45:51
+Campus Nacional,5,2023-05-18,05:45:51
+Suramericana,59,2023-05-18,05:46:11
+Colombia,4,2023-05-18,05:46:31
+Suramericana,60,2023-05-18,05:46:41
+Suramericana,59,2023-05-18,05:47:01
+Suramericana,58,2023-05-18,05:47:21
+Suramericana,57,2023-05-18,05:47:31
+Suramericana,56,2023-05-18,05:47:41
+Suramericana,55,2023-05-18,05:48:02
+Campus Nacional,6,2023-05-18,05:48:02
+Colombia,5,2023-05-18,05:48:42
+Campus Nacional,7,2023-05-18,05:49:21
+Suramericana,54,2023-05-18,05:49:31
+Suramericana,53,2023-05-18,05:49:51
+Colombia,6,2023-05-18,05:49:51
+Suramericana,52,2023-05-18,05:50:11
+Suramericana,51,2023-05-18,05:50:41
+Suramericana,50,2023-05-18,05:51:01
+Campus Nacional,8,2023-05-18,05:51:41
+Suramericana,51,2023-05-18,05:52:01
+Suramericana,50,2023-05-18,05:53:11
+Campus Nacional,9,2023-05-18,05:53:31
+Campus Nacional,10,2023-05-18,05:54:11
+Campus Nacional,11,2023-05-18,05:54:21
+Campus Nacional,12,2023-05-18,05:55:21
+Campus Nacional,13,2023-05-18,05:55:41
+Campus Nacional,14,2023-05-18,05:56:02
+Suramericana,49,2023-05-18,05:57:01
+Suramericana,48,2023-05-18,05:57:21
+Campus Nacional,15,2023-05-18,05:57:21
+Campus Nacional,16,2023-05-18,05:57:41
+Campus Nacional,17,2023-05-18,05:57:51
+Campus Nacional,18,2023-05-18,05:58:01
+Suramericana,47,2023-05-18,05:58:11
+Carlos E. Restrepo,2,2023-05-18,05:58:11
+Campus Nacional,19,2023-05-18,05:58:21
+Colombia,7,2023-05-18,05:59:12
+Campus Nacional,20,2023-05-18,05:59:52
+Carlos E. Restrepo,1,2023-05-18,06:00:02
+Campus Nacional,21,2023-05-18,06:00:02
+Campus Nacional,22,2023-05-18,06:00:11
+Suramericana,46,2023-05-18,06:01:31
+Colombia,6,2023-05-18,06:02:12
+Campus Nacional,23,2023-05-18,06:02:12
+Campus Nacional,24,2023-05-18,06:02:22
+Campus Nacional,25,2023-05-18,06:02:42
+Carlos E. Restrepo,2,2023-05-18,06:03:01
+Campus Nacional,26,2023-05-18,06:03:11
+Colombia,5,2023-05-18,06:03:31
+Carlos E. Restrepo,1,2023-05-18,06:03:51
+Suramericana,45,2023-05-18,06:06:01
+Campus Nacional,27,2023-05-18,06:06:01
+Carlos E. Restrepo,2,2023-05-18,06:06:11
+Colombia,4,2023-05-18,06:06:21
+Suramericana,44,2023-05-18,06:06:31
+Colombia,5,2023-05-18,06:06:51
+Suramericana,43,2023-05-18,06:07:01
+Colombia,6,2023-05-18,06:07:11
+Colombia,5,2023-05-18,06:07:21
+Colombia,4,2023-05-18,06:08:31
+Campus Nacional,28,2023-05-18,06:09:31
+Campus Nacional,29,2023-05-18,06:09:51
+Campus Nacional,30,2023-05-18,06:10:22
+Campus Nacional,31,2023-05-18,06:11:01
+Colombia,3,2023-05-18,06:11:11
+Suramericana,44,2023-05-18,06:11:31
+Colombia,2,2023-05-18,06:11:31
+Carlos E. Restrepo,3,2023-05-18,06:13:01
+Campus Nacional,32,2023-05-18,06:13:01
+Campus Nacional,33,2023-05-18,06:13:11
+Campus Nacional,34,2023-05-18,06:13:31
+Suramericana,43,2023-05-18,06:14:21
+Carlos E. Restrepo,2,2023-05-18,06:15:11
+Suramericana,44,2023-05-18,06:15:31
+Suramericana,43,2023-05-18,06:17:21
+Campus Nacional,35,2023-05-18,06:17:21
+Campus Nacional,36,2023-05-18,06:17:31
+Colombia,3,2023-05-18,06:17:41
+Suramericana,42,2023-05-18,06:19:51
+Colombia,4,2023-05-18,06:20:11
+Campus Nacional,37,2023-05-18,06:20:11
+Colombia,3,2023-05-18,06:22:11
+Colombia,2,2023-05-18,06:23:01
+Suramericana,41,2023-05-18,06:23:21
+Campus Nacional,38,2023-05-18,06:23:31
+Suramericana,42,2023-05-18,06:24:12
+Suramericana,43,2023-05-18,06:26:01
+Colombia,1,2023-05-18,06:26:11
+Campus Nacional,37,2023-05-18,06:26:11
+Suramericana,42,2023-05-18,06:26:21
+Suramericana,41,2023-05-18,06:26:51
+Carlos E. Restrepo,3,2023-05-18,06:28:51
+Suramericana,40,2023-05-18,06:29:11
+Campus Nacional,36,2023-05-18,06:30:42
+Campus Nacional,37,2023-05-18,06:31:21
+Suramericana,39,2023-05-18,06:32:11
+Carlos E. Restrepo,4,2023-05-18,06:32:11
+Campus Nacional,38,2023-05-18,06:33:01
+Suramericana,38,2023-05-18,06:33:41
+Suramericana,37,2023-05-18,06:34:11
+Colombia,2,2023-05-18,06:34:11
+Suramericana,38,2023-05-18,06:34:31
+Colombia,1,2023-05-18,06:34:31
+Suramericana,37,2023-05-18,06:35:01
+Campus Nacional,39,2023-05-18,06:35:01
+Carlos E. Restrepo,3,2023-05-18,06:35:11
+Suramericana,36,2023-05-18,06:38:21
+Suramericana,35,2023-05-18,06:39:51
+Suramericana,34,2023-05-18,06:40:11
+Suramericana,33,2023-05-18,06:40:31
+Suramericana,34,2023-05-18,06:40:51
+Suramericana,35,2023-05-18,06:41:12
+Suramericana,34,2023-05-18,06:41:32
+Suramericana,35,2023-05-18,06:41:52
+Carlos E. Restrepo,2,2023-05-18,06:42:01
+Carlos E. Restrepo,3,2023-05-18,06:42:11
+Campus Nacional,40,2023-05-18,06:43:01
+Carlos E. Restrepo,2,2023-05-18,06:43:11
+Campus Nacional,41,2023-05-18,06:43:11
+Campus Nacional,42,2023-05-18,06:43:21
+Carlos E. Restrepo,1,2023-05-18,06:43:41
+Campus Nacional,43,2023-05-18,06:43:51
+Carlos E. Restrepo,2,2023-05-18,06:46:51
+Suramericana,34,2023-05-18,06:47:02
+Suramericana,33,2023-05-18,06:47:22
+Suramericana,32,2023-05-18,06:47:42
+Campus Nacional,14,2023-05-18,06:48:11
+Suramericana,31,2023-05-18,06:48:21
+Carlos E. Restrepo,1,2023-05-18,06:48:21
+Campus Nacional,15,2023-05-18,06:48:21
+Suramericana,30,2023-05-18,06:48:51
+Campus Nacional,16,2023-05-18,06:49:01
+Suramericana,29,2023-05-18,06:49:11
+Carlos E. Restrepo,2,2023-05-18,06:49:11
+Suramericana,28,2023-05-18,06:49:31
+Campus Nacional,17,2023-05-18,06:49:51
+Campus Nacional,18,2023-05-18,06:50:11
+Campus Nacional,19,2023-05-18,06:51:41
+Suramericana,27,2023-05-18,06:53:51
+Campus Nacional,20,2023-05-18,06:56:01
+Campus Nacional,21,2023-05-18,06:56:11
+Campus Nacional,20,2023-05-18,06:56:41
+Campus Nacional,21,2023-05-18,06:57:41
+Campus Nacional,7,2023-05-18,06:58:22
+Suramericana,26,2023-05-18,06:58:32
+Campus Nacional,8,2023-05-18,06:58:32
+Suramericana,25,2023-05-18,06:59:01
+Suramericana,24,2023-05-18,06:59:41
+Campus Nacional,9,2023-05-18,06:59:41
+Suramericana,23,2023-05-18,07:02:21
+Campus Nacional,10,2023-05-18,07:02:31
+Campus Nacional,11,2023-05-18,07:02:41
+Suramericana,22,2023-05-18,07:03:31
+Suramericana,21,2023-05-18,07:03:51
+Carlos E. Restrepo,3,2023-05-18,07:03:51
+Suramericana,20,2023-05-18,07:04:21
+Suramericana,19,2023-05-18,07:04:41
+Suramericana,18,2023-05-18,07:05:21
+Suramericana,17,2023-05-18,07:05:51
+Suramericana,16,2023-05-18,07:07:11
+Suramericana,15,2023-05-18,07:07:41
+Campus Nacional,12,2023-05-18,07:07:41
+Campus Nacional,13,2023-05-18,07:07:51
+Suramericana,14,2023-05-18,07:08:11
+Suramericana,13,2023-05-18,07:08:51
+Suramericana,14,2023-05-18,07:09:11
+Suramericana,13,2023-05-18,07:09:51
+Suramericana,12,2023-05-18,07:11:31
+Campus Nacional,14,2023-05-18,07:12:52
+Campus Nacional,15,2023-05-18,07:13:51
+Suramericana,13,2023-05-18,07:15:22
+Suramericana,12,2023-05-18,07:17:11
+Campus Nacional,14,2023-05-18,07:18:21
+Campus Nacional,15,2023-05-18,07:18:41
+Suramericana,11,2023-05-18,07:19:31
+Suramericana,12,2023-05-18,07:19:51
+Suramericana,13,2023-05-18,07:20:01
+Campus Nacional,16,2023-05-18,07:20:21
+Suramericana,12,2023-05-18,07:20:31
+Suramericana,11,2023-05-18,07:21:02
+Suramericana,10,2023-05-18,07:21:22
+Suramericana,9,2023-05-18,07:21:42
+Campus Nacional,17,2023-05-18,07:21:52
+Suramericana,8,2023-05-18,07:22:01
+Campus Nacional,18,2023-05-18,07:22:31
+Suramericana,7,2023-05-18,07:22:41
+Suramericana,6,2023-05-18,07:23:01
+Campus Nacional,19,2023-05-18,07:23:11
+Suramericana,7,2023-05-18,07:23:31
+Campus Nacional,20,2023-05-18,07:23:31
+Suramericana,8,2023-05-18,07:24:01
+Carlos E. Restrepo,2,2023-05-18,07:24:11
+Suramericana,7,2023-05-18,07:24:21
+Suramericana,6,2023-05-18,07:24:41
+Suramericana,5,2023-05-18,07:26:01
+Suramericana,4,2023-05-18,07:26:21
+Carlos E. Restrepo,1,2023-05-18,07:26:21
+Campus Nacional,21,2023-05-18,07:28:01
+Suramericana,3,2023-05-18,07:29:01
+Suramericana,2,2023-05-18,07:29:31
+Campus Nacional,22,2023-05-18,07:29:51
+Campus Nacional,23,2023-05-18,07:30:12
+Carlos E. Restrepo,2,2023-05-18,07:30:22
+Campus Nacional,24,2023-05-18,07:30:22
+Campus Nacional,25,2023-05-18,07:31:02
+Suramericana,3,2023-05-18,07:31:32
+Suramericana,2,2023-05-18,07:31:52
+Suramericana,1,2023-05-18,07:32:01
+Suramericana,0,2023-05-18,07:32:11
+Suramericana,1,2023-05-18,07:32:21
+Campus Nacional,26,2023-05-18,07:32:21
+Campus Nacional,27,2023-05-18,07:32:41
+Campus Nacional,28,2023-05-18,07:32:51
+Campus Nacional,29,2023-05-18,07:33:11
+Campus Nacional,30,2023-05-18,07:33:21
+Campus Nacional,31,2023-05-18,07:33:31
+Carlos E. Restrepo,1,2023-05-18,07:34:01
+Campus Nacional,32,2023-05-18,07:34:01
+Suramericana,0,2023-05-18,07:34:11
+Campus Nacional,33,2023-05-18,07:34:11
+Campus Nacional,32,2023-05-18,07:34:31
+Campus Nacional,33,2023-05-18,07:35:11
+Suramericana,1,2023-05-18,07:37:51
+Suramericana,0,2023-05-18,07:38:01
+Campus Nacional,34,2023-05-18,07:38:01
+Campus Nacional,35,2023-05-18,07:38:11
+Campus Nacional,36,2023-05-18,07:38:21
+Suramericana,1,2023-05-18,07:39:11
+Campus Nacional,37,2023-05-18,07:39:21
+Suramericana,0,2023-05-18,07:39:41
+Campus Nacional,38,2023-05-18,07:39:41
+Campus Nacional,39,2023-05-18,07:40:01
+Campus Nacional,40,2023-05-18,07:40:21
+Suramericana,1,2023-05-18,07:40:41
+Suramericana,0,2023-05-18,07:41:01
+Campus Nacional,41,2023-05-18,07:41:51
+Campus Nacional,40,2023-05-18,07:42:41
+Carlos E. Restrepo,0,2023-05-18,07:43:21
+Campus Nacional,39,2023-05-18,07:44:01
+Campus Nacional,40,2023-05-18,07:44:11
+Campus Nacional,39,2023-05-18,07:44:41
+Suramericana,1,2023-05-18,07:44:51
+Suramericana,0,2023-05-18,07:45:01
+Campus Nacional,38,2023-05-18,07:45:01
+Suramericana,1,2023-05-18,07:45:11
+Campus Nacional,39,2023-05-18,07:45:21
+Suramericana,0,2023-05-18,07:45:31
+Suramericana,1,2023-05-18,07:45:51
+Carlos E. Restrepo,1,2023-05-18,07:45:51
+Colombia,2,2023-05-18,07:46:21
+Carlos E. Restrepo,0,2023-05-18,07:46:21
+Suramericana,0,2023-05-18,07:46:31
+Colombia,1,2023-05-18,07:46:51
+Campus Nacional,40,2023-05-18,07:47:11
+Campus Nacional,37,2023-05-18,07:48:12
+Campus Nacional,28,2023-05-18,07:48:22
+Campus Nacional,29,2023-05-18,07:48:42
+Carlos E. Restrepo,1,2023-05-18,07:48:52
+Campus Nacional,30,2023-05-18,07:49:21
+Campus Nacional,31,2023-05-18,07:50:21
+Campus Nacional,32,2023-05-18,07:52:41
+Campus Nacional,33,2023-05-18,07:52:51
+Campus Nacional,32,2023-05-18,07:53:11
+Campus Nacional,33,2023-05-18,07:53:21
+Campus Nacional,34,2023-05-18,07:54:21
+Campus Nacional,35,2023-05-18,07:54:31
+Campus Nacional,36,2023-05-18,07:54:41
+Campus Nacional,37,2023-05-18,07:55:41
+Campus Nacional,38,2023-05-18,07:55:51
+Campus Nacional,39,2023-05-18,07:57:31
+Campus Nacional,40,2023-05-18,07:57:51
+Suramericana,1,2023-05-18,07:59:41
+Campus Nacional,41,2023-05-18,07:59:41
+Suramericana,0,2023-05-18,08:00:01
+Campus Nacional,42,2023-05-18,08:00:01
+Suramericana,1,2023-05-18,08:01:31
+Campus Nacional,43,2023-05-18,08:01:41
+Suramericana,0,2023-05-18,08:01:51
+Campus Nacional,44,2023-05-18,08:02:21
+Carlos E. Restrepo,0,2023-05-18,08:02:31
+Campus Nacional,45,2023-05-18,08:02:41
+Campus Nacional,44,2023-05-18,08:04:21
+Campus Nacional,43,2023-05-18,08:05:01
+Colombia,2,2023-05-18,08:05:21
+Colombia,1,2023-05-18,08:05:31
+Campus Nacional,44,2023-05-18,08:05:41
+Campus Nacional,43,2023-05-18,08:06:11
+Carlos E. Restrepo,1,2023-05-18,08:06:51
+Suramericana,1,2023-05-18,08:09:01
+Suramericana,2,2023-05-18,08:09:11
+Suramericana,1,2023-05-18,08:09:31
+Campus Nacional,44,2023-05-18,08:09:31
+Campus Nacional,43,2023-05-18,08:09:41
+Suramericana,0,2023-05-18,08:09:51
+Campus Nacional,44,2023-05-18,08:09:51
+Campus Nacional,45,2023-05-18,08:10:11
+Campus Nacional,46,2023-05-18,08:10:21
+Campus Nacional,47,2023-05-18,08:11:12
+Campus Nacional,48,2023-05-18,08:12:11
+Carlos E. Restrepo,0,2023-05-18,08:12:41
+Campus Nacional,49,2023-05-18,08:14:31
+Campus Nacional,48,2023-05-18,08:15:11
+Campus Nacional,47,2023-05-18,08:15:51
+Campus Nacional,46,2023-05-18,08:16:11
+Campus Nacional,45,2023-05-18,08:16:21
+Suramericana,14,2023-05-18,08:18:41
+Campus Nacional,46,2023-05-18,08:19:01
+Campus Nacional,47,2023-05-18,08:19:11
+Campus Nacional,48,2023-05-18,08:19:31
+Campus Nacional,49,2023-05-18,08:20:01
+Campus Nacional,50,2023-05-18,08:20:11
+Suramericana,13,2023-05-18,08:20:41
+Suramericana,12,2023-05-18,08:21:01
+Campus Nacional,51,2023-05-18,08:21:11
+Suramericana,11,2023-05-18,08:21:31
+Suramericana,10,2023-05-18,08:22:01
+Suramericana,9,2023-05-18,08:22:31
+Suramericana,8,2023-05-18,08:22:51
+Suramericana,9,2023-05-18,08:23:11
+Suramericana,8,2023-05-18,08:24:01
+Suramericana,9,2023-05-18,08:26:11
+Suramericana,8,2023-05-18,08:26:21
+Campus Nacional,52,2023-05-18,08:26:21
+Suramericana,9,2023-05-18,08:26:41
+Suramericana,8,2023-05-18,08:26:51
+Suramericana,7,2023-05-18,08:27:11
+Campus Nacional,51,2023-05-18,08:27:31
+Suramericana,6,2023-05-18,08:27:41
+Campus Nacional,52,2023-05-18,08:27:41
+Suramericana,5,2023-05-18,08:28:02
+Suramericana,4,2023-05-18,08:28:22
+Campus Nacional,53,2023-05-18,08:29:22
+Campus Nacional,54,2023-05-18,08:29:42
+Suramericana,5,2023-05-18,08:31:11
+Campus Nacional,55,2023-05-18,08:31:21
+Suramericana,6,2023-05-18,08:31:31
+Campus Nacional,54,2023-05-18,08:31:51
+Suramericana,5,2023-05-18,08:32:02
+Campus Nacional,55,2023-05-18,08:32:02
+Campus Nacional,56,2023-05-18,08:32:12
+Suramericana,6,2023-05-18,08:33:01
+Suramericana,5,2023-05-18,08:33:21
+Campus Nacional,57,2023-05-18,08:34:01
+Carlos E. Restrepo,1,2023-05-18,08:34:31
+Campus Nacional,56,2023-05-18,08:37:01
+Campus Nacional,57,2023-05-18,08:37:41
+Campus Nacional,58,2023-05-18,08:37:51
+Campus Nacional,59,2023-05-18,08:38:01
+Suramericana,4,2023-05-18,08:38:41
+Suramericana,3,2023-05-18,08:39:01
+Campus Nacional,58,2023-05-18,08:39:11
+Suramericana,4,2023-05-18,08:39:41
+Campus Nacional,59,2023-05-18,08:39:51
+Colombia,2,2023-05-18,08:40:31
+Colombia,1,2023-05-18,08:40:51
+Suramericana,5,2023-05-18,08:41:31
+Suramericana,6,2023-05-18,08:42:41
+Campus Nacional,60,2023-05-18,08:43:21
+Suramericana,5,2023-05-18,08:44:21
+Suramericana,20,2023-05-18,08:44:51
+Suramericana,28,2023-05-18,08:45:01
+Suramericana,27,2023-05-18,08:45:21
+Campus Nacional,46,2023-05-18,08:45:31
+Colombia,2,2023-05-18,08:46:11
+Colombia,1,2023-05-18,08:46:21
+Carlos E. Restrepo,2,2023-05-18,08:46:41
+Suramericana,26,2023-05-18,08:48:51
+Campus Nacional,47,2023-05-18,08:49:42
+Campus Nacional,48,2023-05-18,08:49:52
+Suramericana,27,2023-05-18,08:50:41
+Suramericana,26,2023-05-18,08:50:51
+Suramericana,25,2023-05-18,08:51:21
+Suramericana,24,2023-05-18,08:51:51
+Suramericana,23,2023-05-18,08:52:12
+Campus Nacional,49,2023-05-18,08:53:01
+Campus Nacional,50,2023-05-18,08:53:31
+Suramericana,22,2023-05-18,08:54:01
+Suramericana,21,2023-05-18,08:54:21
+Suramericana,20,2023-05-18,08:54:41
+Suramericana,19,2023-05-18,08:55:01
+Suramericana,18,2023-05-18,08:56:31
+Suramericana,19,2023-05-18,08:58:12
+Campus Nacional,49,2023-05-18,08:58:22
+Campus Nacional,50,2023-05-18,08:58:52
+Campus Nacional,51,2023-05-18,08:59:01
+Campus Nacional,52,2023-05-18,08:59:41
+Suramericana,18,2023-05-18,09:00:11
+Campus Nacional,53,2023-05-18,09:00:31
+Carlos E. Restrepo,3,2023-05-18,09:00:51
+Campus Nacional,54,2023-05-18,09:01:02
+Suramericana,17,2023-05-18,09:01:32
+Suramericana,16,2023-05-18,09:02:01
+Campus Nacional,55,2023-05-18,09:04:01
+Campus Nacional,56,2023-05-18,09:04:11
+Campus Nacional,55,2023-05-18,09:04:31
+Campus Nacional,56,2023-05-18,09:05:31
+Suramericana,17,2023-05-18,09:05:41
+Suramericana,16,2023-05-18,09:06:01
+Campus Nacional,57,2023-05-18,09:07:21
+Campus Nacional,56,2023-05-18,09:07:41
+Campus Nacional,57,2023-05-18,09:08:21
+Campus Nacional,58,2023-05-18,09:08:51
+Suramericana,17,2023-05-18,09:09:52
+Suramericana,16,2023-05-18,09:10:12
+Suramericana,18,2023-05-18,09:11:31
+Suramericana,17,2023-05-18,09:11:51
+Suramericana,16,2023-05-18,09:12:11
+Suramericana,18,2023-05-18,09:12:41
+Suramericana,17,2023-05-18,09:12:51
+Suramericana,18,2023-05-18,09:13:11
+Campus Nacional,57,2023-05-18,09:13:11
+Suramericana,19,2023-05-18,09:13:52
+Suramericana,18,2023-05-18,09:14:41
+Campus Nacional,56,2023-05-18,09:14:41
+Suramericana,17,2023-05-18,09:15:31
+Campus Nacional,57,2023-05-18,09:15:51
+Suramericana,16,2023-05-18,09:16:11
+Suramericana,17,2023-05-18,09:17:01
+Suramericana,18,2023-05-18,09:17:21
+Suramericana,17,2023-05-18,09:17:51
+Campus Nacional,56,2023-05-18,09:17:51
+Suramericana,16,2023-05-18,09:18:21
+Suramericana,15,2023-05-18,09:18:41
+Campus Nacional,55,2023-05-18,09:19:21
+Suramericana,16,2023-05-18,09:19:31
+Suramericana,17,2023-05-18,09:19:41
+Campus Nacional,56,2023-05-18,09:19:51
+Carlos E. Restrepo,4,2023-05-18,09:20:51
+Suramericana,16,2023-05-18,09:21:21
+Campus Nacional,57,2023-05-18,09:21:51
+Carlos E. Restrepo,5,2023-05-18,09:23:11
+Suramericana,17,2023-05-18,09:23:31
+Suramericana,18,2023-05-18,09:23:41
+Suramericana,17,2023-05-18,09:24:11
+Colombia,2,2023-05-18,09:24:11
+Suramericana,16,2023-05-18,09:24:21
+Colombia,3,2023-05-18,09:24:51
+Suramericana,15,2023-05-18,09:25:01
+Suramericana,14,2023-05-18,09:25:21
+Suramericana,13,2023-05-18,09:25:51
+Campus Nacional,56,2023-05-18,09:26:01
+Suramericana,12,2023-05-18,09:26:21
+Campus Nacional,57,2023-05-18,09:26:31
+Suramericana,13,2023-05-18,09:26:41
+Suramericana,12,2023-05-18,09:27:22
+Campus Nacional,56,2023-05-18,09:27:22
+Suramericana,11,2023-05-18,09:28:01
+Colombia,4,2023-05-18,09:28:01
+Campus Nacional,57,2023-05-18,09:28:21
+Campus Nacional,56,2023-05-18,09:28:51
+Campus Nacional,57,2023-05-18,09:29:51
+Campus Nacional,56,2023-05-18,09:30:12
+Campus Nacional,55,2023-05-18,09:31:11
+Campus Nacional,56,2023-05-18,09:31:21
+Campus Nacional,57,2023-05-18,09:31:31
+Suramericana,10,2023-05-18,09:31:41
+Suramericana,9,2023-05-18,09:32:11
+Campus Nacional,58,2023-05-18,09:34:01
+Colombia,3,2023-05-18,09:35:41
+Colombia,4,2023-05-18,09:35:51
+Suramericana,10,2023-05-18,09:36:01
+Suramericana,11,2023-05-18,09:36:11
+Campus Nacional,60,2023-05-18,09:36:11
+Suramericana,10,2023-05-18,09:36:31
+Suramericana,9,2023-05-18,09:36:51
+Suramericana,8,2023-05-18,09:37:31
+Suramericana,7,2023-05-18,09:38:01
+Suramericana,6,2023-05-18,09:38:31
+Suramericana,5,2023-05-18,09:39:01
+Campus Nacional,61,2023-05-18,09:39:01
+Carlos E. Restrepo,6,2023-05-18,09:39:11
+Suramericana,4,2023-05-18,09:39:21
+Suramericana,5,2023-05-18,09:39:41
+Suramericana,4,2023-05-18,09:40:01
+Suramericana,5,2023-05-18,09:40:11
+Suramericana,4,2023-05-18,09:40:31
+Campus Nacional,62,2023-05-18,09:40:31
+Suramericana,5,2023-05-18,09:41:11
+Suramericana,4,2023-05-18,09:41:21
+Suramericana,3,2023-05-18,09:41:51
+Campus Nacional,63,2023-05-18,09:42:01
+Suramericana,4,2023-05-18,09:42:11
+Campus Nacional,64,2023-05-18,09:42:11
+Campus Nacional,65,2023-05-18,09:42:21
+Suramericana,5,2023-05-18,09:42:31
+Suramericana,4,2023-05-18,09:42:51
+Suramericana,3,2023-05-18,09:43:11
+Suramericana,4,2023-05-18,09:43:31
+Suramericana,3,2023-05-18,09:43:51
+Campus Nacional,66,2023-05-18,09:44:02
+Suramericana,2,2023-05-18,09:44:12
+Campus Nacional,65,2023-05-18,09:45:11
+Suramericana,1,2023-05-18,09:45:41
+Campus Nacional,66,2023-05-18,09:45:51
+Suramericana,0,2023-05-18,09:46:11
+Campus Nacional,67,2023-05-18,09:46:11
+Campus Nacional,68,2023-05-18,09:46:21
+Campus Nacional,67,2023-05-18,09:46:41
+Campus Nacional,66,2023-05-18,09:46:51
+Campus Nacional,54,2023-05-18,09:47:02
+Colombia,3,2023-05-18,09:47:22
+Campus Nacional,52,2023-05-18,09:47:22
+Campus Nacional,53,2023-05-18,09:47:42
+Campus Nacional,54,2023-05-18,09:48:01
+Campus Nacional,55,2023-05-18,09:48:11
+Campus Nacional,54,2023-05-18,09:48:41
+Colombia,2,2023-05-18,09:49:21
+Campus Nacional,55,2023-05-18,09:49:41
+Campus Nacional,56,2023-05-18,09:49:51
+Campus Nacional,57,2023-05-18,09:50:02
+Campus Nacional,58,2023-05-18,09:50:12
+Campus Nacional,59,2023-05-18,09:50:22
+Campus Nacional,60,2023-05-18,09:50:42
+Campus Nacional,61,2023-05-18,09:50:52
+Campus Nacional,60,2023-05-18,09:51:11
+Campus Nacional,61,2023-05-18,09:52:01
+Suramericana,1,2023-05-18,09:52:11
+Campus Nacional,62,2023-05-18,09:52:11
+Suramericana,0,2023-05-18,09:52:31
+Colombia,1,2023-05-18,09:52:41
+Campus Nacional,63,2023-05-18,09:53:51
+Campus Nacional,64,2023-05-18,09:54:21
+Suramericana,1,2023-05-18,09:54:31
+Suramericana,0,2023-05-18,09:55:01
+Campus Nacional,63,2023-05-18,09:56:01
+Campus Nacional,64,2023-05-18,09:56:31
+Campus Nacional,65,2023-05-18,09:56:51
+Carlos E. Restrepo,7,2023-05-18,09:57:51
+Campus Nacional,66,2023-05-18,09:58:41
+Suramericana,1,2023-05-18,09:59:01
+Suramericana,0,2023-05-18,09:59:21
+Suramericana,1,2023-05-18,09:59:31
+Suramericana,0,2023-05-18,09:59:51
+Campus Nacional,67,2023-05-18,10:00:01
+Colombia,2,2023-05-18,10:00:21
+Campus Nacional,68,2023-05-18,10:01:42
+Campus Nacional,67,2023-05-18,10:02:11
+Colombia,1,2023-05-18,10:02:41
+Campus Nacional,66,2023-05-18,10:03:01
+Campus Nacional,65,2023-05-18,10:03:51
+Carlos E. Restrepo,6,2023-05-18,10:04:32
+Carlos E. Restrepo,7,2023-05-18,10:04:42
+Campus Nacional,66,2023-05-18,10:05:11
+Suramericana,1,2023-05-18,10:05:31
+Campus Nacional,65,2023-05-18,10:05:31
+Campus Nacional,66,2023-05-18,10:05:41
+Campus Nacional,67,2023-05-18,10:05:51
+Suramericana,0,2023-05-18,10:06:31
+Campus Nacional,66,2023-05-18,10:08:01
+Campus Nacional,67,2023-05-18,10:08:11
+Colombia,2,2023-05-18,10:08:41
+Colombia,3,2023-05-18,10:08:51
+Campus Nacional,68,2023-05-18,10:09:11
+Campus Nacional,69,2023-05-18,10:09:21
+Campus Nacional,48,2023-05-18,10:11:01
+Campus Nacional,37,2023-05-18,10:11:11
+Suramericana,1,2023-05-18,10:12:11
+Carlos E. Restrepo,6,2023-05-18,10:12:11
+Campus Nacional,36,2023-05-18,10:12:21
+Suramericana,0,2023-05-18,10:12:31
+Suramericana,1,2023-05-18,10:12:41
+Suramericana,0,2023-05-18,10:13:02
+Campus Nacional,35,2023-05-18,10:13:02
+Colombia,4,2023-05-18,10:13:22
+Suramericana,1,2023-05-18,10:13:52
+Suramericana,0,2023-05-18,10:14:11
+Carlos E. Restrepo,7,2023-05-18,10:14:21
+Campus Nacional,36,2023-05-18,10:14:21
+Campus Nacional,35,2023-05-18,10:15:31
+Campus Nacional,36,2023-05-18,10:15:51
+Campus Nacional,37,2023-05-18,10:16:12
+Carlos E. Restrepo,6,2023-05-18,10:16:32
+Colombia,5,2023-05-18,10:16:42
+Colombia,4,2023-05-18,10:17:01
+Campus Nacional,36,2023-05-18,10:17:11
+Suramericana,1,2023-05-18,10:18:31
+Suramericana,0,2023-05-18,10:18:51
+Campus Nacional,37,2023-05-18,10:20:31
+Suramericana,1,2023-05-18,10:21:41
+Suramericana,0,2023-05-18,10:22:01
+Campus Nacional,38,2023-05-18,10:24:01
+Campus Nacional,37,2023-05-18,10:24:21
+Carlos E. Restrepo,5,2023-05-18,10:24:31
+Colombia,3,2023-05-18,10:24:41
+Suramericana,1,2023-05-18,10:25:01
+Carlos E. Restrepo,6,2023-05-18,10:25:01
+Suramericana,0,2023-05-18,10:25:11
+Carlos E. Restrepo,5,2023-05-18,10:25:11
+Suramericana,30,2023-05-18,10:26:11
+Suramericana,31,2023-05-18,10:26:21
+Campus Nacional,36,2023-05-18,10:26:41
+Carlos E. Restrepo,6,2023-05-18,10:27:01
+Campus Nacional,37,2023-05-18,10:27:11
+Carlos E. Restrepo,5,2023-05-18,10:27:21
+Campus Nacional,38,2023-05-18,10:27:31
+Colombia,2,2023-05-18,10:28:31
+Carlos E. Restrepo,4,2023-05-18,10:28:41
+Colombia,1,2023-05-18,10:28:51
+Campus Nacional,37,2023-05-18,10:29:21
+Campus Nacional,38,2023-05-18,10:29:41
+Carlos E. Restrepo,5,2023-05-18,10:29:51
+Campus Nacional,37,2023-05-18,10:30:52
+Campus Nacional,38,2023-05-18,10:31:11
+Campus Nacional,39,2023-05-18,10:31:41
+Campus Nacional,40,2023-05-18,10:32:01
+Campus Nacional,39,2023-05-18,10:32:21
+Suramericana,30,2023-05-18,10:33:22
+Suramericana,29,2023-05-18,10:33:42
+Campus Nacional,38,2023-05-18,10:33:42
+Suramericana,28,2023-05-18,10:34:01
