@@ -20,9 +20,9 @@ transporte p ́ublico en bicicleta.
 
 ## Contenido
 
-> [data](data) - Archivos de entrada para la simulación. Procesados por los scripts en [datarizer](datarizer) y [scrapper](scrapper).
-> [datarizer](datarizer) - Scripts para convertir los datos recolectados manualmente a un formato legible por el simulador.
-> [scrapper](scrapper) - Scripts para recopilar datos de la API de EnCicla y procesarlos a un formato legible por el simulador.
+- [data](data) - Archivos de entrada para la simulación. Procesados por los scripts en [datarizer](datarizer) y [scrapper](scrapper).
+- [datarizer](datarizer) - Scripts para convertir los datos recolectados manualmente a un formato legible por el simulador.
+- [scrapper](scrapper) - Scripts para recopilar datos de la API de EnCicla y procesarlos a un formato legible por el simulador.
 
 ## Autores
 
