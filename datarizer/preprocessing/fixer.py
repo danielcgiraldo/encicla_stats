@@ -6,7 +6,7 @@ import os
 # Fixed file to store lines
 fixed = []
 
-with open("datarizer/data.csv", 'r') as f:
+with open("datarizer/preprocessing/data.csv", 'r') as f:
     reader = csv.reader(f)
     rows = list(reader)
 
