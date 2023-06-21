@@ -21,6 +21,6 @@ with open("datarizer/preprocessing/data.csv", 'r') as f:
             fixed.append(row)
 
 # Write the fixed lines to a new file
-with open("datarizer/fixed.csv", 'w', newline='') as f:
+with open("datarizer/preprocessing/fixed.csv", 'w', newline='') as f:
     writer = csv.writer(f)
     writer.writerows(fixed)
